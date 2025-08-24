@@ -7,3 +7,4 @@ Currently not well implemented for anything other than testing use
 - more user-friendly in general
 - Better support outside of Linux
 - General Optimizations
+- Learn enough C++ to maybe switch programming language
